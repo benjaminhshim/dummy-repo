@@ -1,3 +1,3 @@
 # dummy-repo
 
-my master branch
+new features for staging
