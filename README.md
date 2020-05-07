@@ -1,3 +1,3 @@
 # dummy-repo
 
-changes to my staging branch
+my master branch
