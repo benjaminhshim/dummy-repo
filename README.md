@@ -1,3 +1,3 @@
 # dummy-repo
 
-new features for staging
+here are new features for staging
