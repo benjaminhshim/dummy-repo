@@ -1,3 +1,4 @@
 # dummy-repo
 
-my staging branch
+
+new features for staging
